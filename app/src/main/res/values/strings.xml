@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">💛体重記録アプリ💛</string>
+    <string name="title">今日の日付と体重を入力しましょう！</string>
+    <string name="date">日付</string>
+    <string name="weight">体重</string>
+    <string name="btn_clear">クリア</string>
+    <string name="btn_save">保存</string>
+    <string name="toast_save">保存できました</string>
+    <string name="memo_list">体重記録一覧</string>
+    <string name="menu_list_options_nyuryoku">入力画面</string>
+    <string name="menu_list_oprions_memo">記録一覧</string>
+    <string name="memo_list_context_header">操作を選んでください。</string>
+    <string name="memo_list_context_delete">削除</string>
+    <string name="msg_del">削除しました。</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuListOptionNyuryoku"
+        app:showAsAction="never"
+        android:title="@string/menu_list_options_nyuryoku"/>
+    <item
+        android:id="@+id/menuListOptionMemo"
+        android:title="@string/menu_list_oprions_memo"
+        app:showAsAction="never" />
+
+
+</menu>
